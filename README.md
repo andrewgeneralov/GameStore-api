@@ -56,10 +56,3 @@ GameStore API — RESTful API сервис для управления ката�
 **Документация Swagger UI:** `http://127.0.0.1:8000/api/docs/`
 
 ---
-
-## Инструкция по запуску
-
-1. Клонировать репозиторий:
-   ```bash
-   git clone <ссылка_на_ваш_репозиторий>
-   cd gamestore_project
